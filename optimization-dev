@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+optimization:
+  message: "Hey, welcome to optimization related dev APIs"
+  contactDetails:
+    name: "John - Product Owner"
+    email: "john@gmail.com"
+  onCallSupport:
+    - (453) 392-4829
+    - (236) 203-0384
