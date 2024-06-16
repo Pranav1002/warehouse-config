@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+warehouse:
+  message: "Hey, welcome to warehouse related webhook APIs"
+  contactDetails:
+    name: "Reine Aishwarya - Product Owner"
+    email: "aish@gmail.com"
+  onCallSupport:
+    - (453) 392-4829
+    - (236) 203-0384
